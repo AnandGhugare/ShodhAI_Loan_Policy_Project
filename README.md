@@ -14,7 +14,7 @@ Goal: **maximize expected financial return** while reducing loan default risk.
 ---
 
 ## 📂 Project Structure
-ShodhAI_Loan_Policy_Project  
+```ShodhAI_Loan_Policy_Project  
 ├── Notebooks  
 │   └── 01_data_and_first_model.ipynb  
 │  
@@ -24,4 +24,4 @@ ShodhAI_Loan_Policy_Project
 ├── requirements.txt  
 ├── README.md  
 ├── .gitignore  
-└── data  (dataset stored locally, not uploaded)
+└── data  (dataset stored locally, not uploaded)```
