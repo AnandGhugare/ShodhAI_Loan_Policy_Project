@@ -1,4 +1,4 @@
-# Policy Optimization for Financial Decision-Making — LendingClub Project
+# Policy Optimization for Financial Decision Making - LendingClub Project
 
 ## Overview
 This project builds two models for loan approval decisions:
